@@ -1,0 +1,26 @@
+import fs from 'node:fs/promises';
+import assert from 'node:assert/strict';
+import { unzipSync, zipSync, strFromU8, strToU8 } from 'fflate';
+import { importWorkbook } from '../lib/import-workbook.ts';
+import { data, calculate, scenarios } from '../lib/model.ts';
+const path=process.argv[2];
+assert.ok(path,'Supply the original final workbook path: npm run test:workbook -- "/path/Coinbase VERSION FINAL.xlsx"');
+const bytes=new Uint8Array(await fs.readFile(path));
+const imported=importWorkbook(bytes,'Final.xlsx');
+assert.deepEqual(imported.data.history,data.history);
+assert.deepEqual(imported.data.defaults,data.defaults);
+assert.deepEqual(imported.data.sources,data.sources);
+for(const s of scenarios)assert.deepEqual(calculate(imported.data.defaults[s],imported.data),calculate(data.defaults[s]));
+const archive=unzipSync(bytes);
+function replace(xml,cell,value){const re=new RegExp(`(<c[^>]*\\br="${cell}"[^>]*>[\\s\\S]*?<v>)[^<]*(</v>)`);assert.ok(re.test(xml));return xml.replace(re,`$1${value}$2`);}
+archive['xl/worksheets/sheet3.xml']=strToU8(replace(strFromU8(archive['xl/worksheets/sheet3.xml']),'H15','0.1'));
+const edited=importWorkbook(zipSync(archive),'Edited.xlsx');
+assert.equal(calculate(edited.data.defaults.Base,edited.data)[0].net,1193475.84);
+assert.equal(calculate(edited.data.defaults.Base,edited.data)[1].net,1255729.4906000001);
+const stale={...archive};stale['xl/worksheets/sheet1.xml']=strToU8(replace(strFromU8(stale['xl/worksheets/sheet1.xml']),'H4','500000'));
+assert.equal(importWorkbook(zipSync(stale),'Stale.xlsx').data.history[5].net,1202631);
+const bad={...archive};bad['xl/worksheets/sheet5.xml']=strToU8(strFromU8(bad['xl/worksheets/sheet5.xml']).replace('E20+E13','E20+E13+1'));
+assert.throws(()=>importWorkbook(zipSync(bad),'Bad.xlsx'),/model formula/);
+assert.throws(()=>importWorkbook(strToU8('bad'),'Bad.xlsx'));
+assert.throws(()=>importWorkbook(bytes,'Bad.csv'),/xlsx/);
+console.log(`PASS: ${imported.checks} template/data checks, all history/defaults/sources, six scenario-quarter outputs, edited Q3/Q4 propagation, stale-cache recalculation and invalid workbook rejection.`);

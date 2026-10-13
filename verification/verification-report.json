@@ -1,0 +1,77 @@
+{
+  "status": "passed",
+  "comparisons": 168,
+  "maxAbsoluteDifferenceInThousands": 0,
+  "method": "Recalculation of the imported Excel workbook using Artifact Tool, comparison to the independently implemented site model, and comparison to available saved Excel Base Case cached outputs. Microsoft Excel itself was not available.",
+  "reports": [
+    {
+      "scenario": "Bear",
+      "quarter": 3,
+      "transaction": 504944.1599999999,
+      "services": 528395.92,
+      "net": 1033340.08,
+      "corporate": 64451.659999999996,
+      "total": 1097791.74
+    },
+    {
+      "scenario": "Bear",
+      "quarter": 4,
+      "transaction": 482681.04800000007,
+      "services": 514231.782,
+      "net": 996912.8300000001,
+      "corporate": 65740.6932,
+      "total": 1062653.5232000002
+    },
+    {
+      "scenario": "Base",
+      "quarter": 3,
+      "transaction": 536949.76,
+      "services": 557158.68,
+      "net": 1094108.44,
+      "corporate": 64451.659999999996,
+      "total": 1158560.0999999999
+    },
+    {
+      "scenario": "Base",
+      "quarter": 4,
+      "transaction": 570817.2720000001,
+      "services": 578821.4426,
+      "net": 1149638.7146,
+      "corporate": 65740.6932,
+      "total": 1215379.4078000002
+    },
+    {
+      "scenario": "Bull",
+      "quarter": 3,
+      "transaction": 587025.56,
+      "services": 577544.82,
+      "net": 1164570.38,
+      "corporate": 64451.659999999996,
+      "total": 1229022.0399999998
+    },
+    {
+      "scenario": "Bull",
+      "quarter": 4,
+      "transaction": 638862.8400000001,
+      "services": 623625.8222,
+      "net": 1262488.6622000001,
+      "corporate": 65740.6932,
+      "total": 1328229.3554000002
+    }
+  ],
+  "editedBase": [
+    {
+      "net": 1193475.84,
+      "total": 1257927.5,
+      "transaction": 636317.16,
+      "services": 557158.68
+    },
+    {
+      "net": 1255729.4906000001,
+      "total": 1321470.1838000002,
+      "transaction": 676908.0480000002,
+      "services": 578821.4426
+    }
+  ],
+  "sharedInputTest": "Corporate growth applies to all cases and leaves net revenue unchanged."
+}

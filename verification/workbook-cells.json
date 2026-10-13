@@ -1,0 +1,2622 @@
+{
+  "Actuals": {
+    "C2": {
+      "formula": "Q1'25",
+      "cached": "Q1'25"
+    },
+    "D2": {
+      "formula": "Q2'25",
+      "cached": "Q2'25"
+    },
+    "E2": {
+      "formula": "Q3'25",
+      "cached": "Q3'25"
+    },
+    "F2": {
+      "formula": "Q4'25",
+      "cached": "Q4'25"
+    },
+    "G2": {
+      "formula": "Q1'26",
+      "cached": "Q1'26"
+    },
+    "H2": {
+      "formula": "Q2'26",
+      "cached": "Q2'26"
+    },
+    "B3": {
+      "formula": "Transaction Revenue",
+      "cached": "Transaction Revenue"
+    },
+    "B4": {
+      "formula": "Consumer, net",
+      "cached": "Consumer, net"
+    },
+    "C4": {
+      "formula": 1095506,
+      "cached": 1095506
+    },
+    "D4": {
+      "formula": 649908,
+      "cached": 649908
+    },
+    "E4": {
+      "formula": 843544,
+      "cached": 843544
+    },
+    "F4": {
+      "formula": "=3322835-SUM(C4:E4)",
+      "cached": 733877
+    },
+    "G4": {
+      "formula": 566899,
+      "cached": 566899
+    },
+    "H4": {
+      "formula": 451670,
+      "cached": 451670
+    },
+    "B5": {
+      "formula": "Institutional, net",
+      "cached": "Institutional, net"
+    },
+    "C5": {
+      "formula": 98888,
+      "cached": 98888
+    },
+    "D5": {
+      "formula": 60819,
+      "cached": 60819
+    },
+    "E5": {
+      "formula": 135009,
+      "cached": 135009
+    },
+    "F5": {
+      "formula": "=479667-SUM(C5:E5)",
+      "cached": 184951
+    },
+    "G5": {
+      "formula": 135726,
+      "cached": 135726
+    },
+    "H5": {
+      "formula": 100073,
+      "cached": 100073
+    },
+    "B6": {
+      "formula": "Other transaction revenue",
+      "cached": "Other transaction revenue"
+    },
+    "C6": {
+      "formula": 67814,
+      "cached": 67814
+    },
+    "D6": {
+      "formula": 53543,
+      "cached": 53543
+    },
+    "E6": {
+      "formula": 67707,
+      "cached": 67707
+    },
+    "F6": {
+      "formula": "=252888-SUM(C6:E6)",
+      "cached": 63824
+    },
+    "G6": {
+      "formula": 53200,
+      "cached": 53200
+    },
+    "H6": {
+      "formula": 47413,
+      "cached": 47413
+    },
+    "B7": {
+      "formula": "Total transaction revenue",
+      "cached": "Total transaction revenue"
+    },
+    "C7": {
+      "formula": "=SUM(C4:C6)",
+      "cached": 1262208
+    },
+    "D7": {
+      "formula": "=SUM(D4:D6)",
+      "cached": 764270
+    },
+    "E7": {
+      "formula": "=SUM(E4:E6)",
+      "cached": 1046260
+    },
+    "F7": {
+      "formula": "=SUM(F4:F6)",
+      "cached": 982652
+    },
+    "G7": {
+      "formula": "=SUM(G4:G6)",
+      "cached": 755825
+    },
+    "H7": {
+      "formula": "=SUM(H4:H6)",
+      "cached": 599156
+    },
+    "B9": {
+      "formula": "Subscription and services revenue",
+      "cached": "Subscription and services revenue"
+    },
+    "B10": {
+      "formula": "Stablecoin revenue",
+      "cached": "Stablecoin revenue"
+    },
+    "C10": {
+      "formula": 297535,
+      "cached": 297535
+    },
+    "D10": {
+      "formula": 332497,
+      "cached": 332497
+    },
+    "E10": {
+      "formula": 354661,
+      "cached": 354661
+    },
+    "F10": {
+      "formula": "=1348821-SUM(C10:E10)",
+      "cached": 364128
+    },
+    "G10": {
+      "formula": 305435,
+      "cached": 305435
+    },
+    "H10": {
+      "formula": 292147,
+      "cached": 292147
+    },
+    "B11": {
+      "formula": "Blockchain rewards",
+      "cached": "Blockchain rewards"
+    },
+    "C11": {
+      "formula": 196592,
+      "cached": 196592
+    },
+    "D11": {
+      "formula": 144535,
+      "cached": 144535
+    },
+    "E11": {
+      "formula": 184647,
+      "cached": 184647
+    },
+    "F11": {
+      "formula": "=677405-SUM(C11:E11)",
+      "cached": 151631
+    },
+    "G11": {
+      "formula": 100849,
+      "cached": 100849
+    },
+    "H11": {
+      "formula": 83342,
+      "cached": 83342
+    },
+    "B12": {
+      "formula": "Interest and finance fee income",
+      "cached": "Interest and finance fee income"
+    },
+    "C12": {
+      "formula": 63086,
+      "cached": 63086
+    },
+    "D12": {
+      "formula": 59316,
+      "cached": 59316
+    },
+    "E12": {
+      "formula": 64758,
+      "cached": 64758
+    },
+    "F12": {
+      "formula": "=247047-SUM(C12:E12)",
+      "cached": 59887
+    },
+    "G12": {
+      "formula": 67805,
+      "cached": 67805
+    },
+    "H12": {
+      "formula": 66128,
+      "cached": 66128
+    },
+    "B13": {
+      "formula": "Other subscription and services revenue",
+      "cached": "Other subscription and services revenue"
+    },
+    "C13": {
+      "formula": 140898,
+      "cached": 140898
+    },
+    "D13": {
+      "formula": 119478,
+      "cached": 119478
+    },
+    "E13": {
+      "formula": 142658,
+      "cached": 142658
+    },
+    "F13": {
+      "formula": "=554775-SUM(C13:E13)",
+      "cached": 151741
+    },
+    "G13": {
+      "formula": 109434,
+      "cached": 109434
+    },
+    "H13": {
+      "formula": 113528,
+      "cached": 113528
+    },
+    "B14": {
+      "formula": "Total subscription and services revenue",
+      "cached": "Total subscription and services revenue"
+    },
+    "C14": {
+      "formula": "=SUM(C10:C13)",
+      "cached": 698111
+    },
+    "D14": {
+      "formula": "=SUM(D10:D13)",
+      "cached": 655826
+    },
+    "E14": {
+      "formula": "=SUM(E10:E13)",
+      "cached": 746724
+    },
+    "F14": {
+      "formula": "=SUM(F10:F13)",
+      "cached": 727387
+    },
+    "G14": {
+      "formula": "=SUM(G10:G13)",
+      "cached": 583523
+    },
+    "H14": {
+      "formula": "=SUM(H10:H13)",
+      "cached": 555145
+    },
+    "B16": {
+      "formula": "Total net revenue",
+      "cached": "Total net revenue"
+    },
+    "C16": {
+      "formula": "=C14+C7",
+      "cached": 1960319
+    },
+    "D16": {
+      "formula": "=D14+D7",
+      "cached": 1420096
+    },
+    "E16": {
+      "formula": "=E14+E7",
+      "cached": 1792984
+    },
+    "F16": {
+      "formula": "=F14+F7",
+      "cached": 1710039
+    },
+    "G16": {
+      "formula": "=G14+G7",
+      "cached": 1339348
+    },
+    "H16": {
+      "formula": "=H14+H7",
+      "cached": 1154301
+    },
+    "B18": {
+      "formula": "Other revenue",
+      "cached": "Other revenue"
+    },
+    "B19": {
+      "formula": "Corporate interest and other income",
+      "cached": "Corporate interest and other income"
+    },
+    "C19": {
+      "formula": 73976,
+      "cached": 73976
+    },
+    "D19": {
+      "formula": 77112,
+      "cached": 77112
+    },
+    "E19": {
+      "formula": 75709,
+      "cached": 75709
+    },
+    "F19": {
+      "formula": "=297887-SUM(C19:E19)",
+      "cached": 71090
+    },
+    "G19": {
+      "formula": 73634,
+      "cached": 73634
+    },
+    "H19": {
+      "formula": 65767,
+      "cached": 65767
+    },
+    "B20": {
+      "formula": "Total other revenue",
+      "cached": "Total other revenue"
+    },
+    "C20": {
+      "formula": "=C19",
+      "cached": 73976
+    },
+    "D20": {
+      "formula": "=D19",
+      "cached": 77112
+    },
+    "E20": {
+      "formula": "=E19",
+      "cached": 75709
+    },
+    "F20": {
+      "formula": "=F19",
+      "cached": 71090
+    },
+    "G20": {
+      "formula": "=G19",
+      "cached": 73634
+    },
+    "H20": {
+      "formula": "=H19",
+      "cached": 65767
+    },
+    "B22": {
+      "formula": "Total revenue",
+      "cached": "Total revenue"
+    },
+    "C22": {
+      "formula": "=C20+C16",
+      "cached": 2034295
+    },
+    "D22": {
+      "formula": "=D20+D16",
+      "cached": 1497208
+    },
+    "E22": {
+      "formula": "=E20+E16",
+      "cached": 1868693
+    },
+    "F22": {
+      "formula": "=F20+F16",
+      "cached": 1781129
+    },
+    "G22": {
+      "formula": "=G20+G16",
+      "cached": 1412982
+    },
+    "H22": {
+      "formula": "=H20+H16",
+      "cached": 1220068
+    },
+    "B24": {
+      "formula": "Notes:",
+      "cached": "Notes:"
+    },
+    "B25": {
+      "formula": "1. Revenue is in $ thousands; volumes and USDC balances are on Drivers.",
+      "cached": "1. Revenue is in $ thousands; volumes and USDC balances are on Drivers."
+    },
+    "B26": {
+      "formula": "2. Classification source: Q2 2026 10-Q, Note 5, Revenue (July 30, 2026).",
+      "cached": "2. Classification source: Q2 2026 10-Q, Note 5, Revenue (July 30, 2026)."
+    },
+    "B27": {
+      "formula": "3. Net revenue = transaction revenue + subscription and services (S&S).",
+      "cached": "3. Net revenue = transaction revenue + subscription and services (S&S)."
+    },
+    "B28": {
+      "formula": "4. Total revenue = net revenue + corporate interest and other income.",
+      "cached": "4. Total revenue = net revenue + corporate interest and other income."
+    },
+    "B29": {
+      "formula": "5. Q4 2025 detail = originally reported full year less Q1 through Q3.",
+      "cached": "5. Q4 2025 detail = originally reported full year less Q1 through Q3."
+    },
+    "B30": {
+      "formula": "6. 2025 figures retain the original presentation, including corporate USDC in stablecoin.",
+      "cached": "6. 2025 figures retain the original presentation, including corporate USDC in stablecoin."
+    },
+    "B31": {
+      "formula": "7. 2026 presents corporate USDC income in corporate interest and other income.",
+      "cached": "7. 2026 presents corporate USDC income in corporate interest and other income."
+    },
+    "B32": {
+      "formula": "8. Stablecoin, S&S, net and corporate revenue are not fully comparable across that change.",
+      "cached": "8. Stablecoin, S&S, net and corporate revenue are not fully comparable across that change."
+    },
+    "B33": {
+      "formula": "9. The reclassification changes revenue categories, not total revenue.",
+      "cached": "9. The reclassification changes revenue categories, not total revenue."
+    },
+    "B34": {
+      "formula": "10. Recast Q2 2025 ($000s): stablecoin 308,914; corporate interest/other 100,695.",
+      "cached": "10. Recast Q2 2025 ($000s): stablecoin 308,914; corporate interest/other 100,695."
+    },
+    "B36": {
+      "formula": "SOURCE LINKS AND EXACT LOCATIONS",
+      "cached": "SOURCE LINKS AND EXACT LOCATIONS"
+    },
+    "B38": {
+      "formula": "=HYPERLINK(\"https://www.sec.gov/Archives/edgar/data/1679788/000167978825000089/coin-20250331.htm\",\"Q1 2025 Form 10-Q (click to open)\")",
+      "cached": "Q1 2025 Form 10-Q (click to open)"
+    },
+    "B39": {
+      "formula": "Location: Note 3, Revenue; table presenting revenue by type, in thousands.",
+      "cached": "Location: Note 3, Revenue; table presenting revenue by type, in thousands."
+    },
+    "B40": {
+      "formula": "Use: Three Months Ended March 31, 2025 column. Supports Actuals C4:C22.",
+      "cached": "Use: Three Months Ended March 31, 2025 column. Supports Actuals C4:C22."
+    },
+    "B41": {
+      "formula": "Detail rows are reported amounts; subtotal rows reconcile to the same table.",
+      "cached": "Detail rows are reported amounts; subtotal rows reconcile to the same table."
+    },
+    "B43": {
+      "formula": "=HYPERLINK(\"https://www.sec.gov/Archives/edgar/data/1679788/000167978825000154/coin-20250630.htm\",\"Q2 2025 Form 10-Q (click to open)\")",
+      "cached": "Q2 2025 Form 10-Q (click to open)"
+    },
+    "B44": {
+      "formula": "Location: Note 3, Revenue; revenue-by-type table, in thousands.",
+      "cached": "Location: Note 3, Revenue; revenue-by-type table, in thousands."
+    },
+    "B45": {
+      "formula": "Use: Three Months Ended June 30, 2025, not six months. Supports D4:D22.",
+      "cached": "Use: Three Months Ended June 30, 2025, not six months. Supports D4:D22."
+    },
+    "B47": {
+      "formula": "=HYPERLINK(\"https://www.sec.gov/Archives/edgar/data/1679788/000167978825000208/coin-20250930.htm\",\"Q3 2025 Form 10-Q (click to open)\")",
+      "cached": "Q3 2025 Form 10-Q (click to open)"
+    },
+    "B48": {
+      "formula": "Location: Note 4, Revenue; revenue-by-type table, in thousands.",
+      "cached": "Location: Note 4, Revenue; revenue-by-type table, in thousands."
+    },
+    "B49": {
+      "formula": "Use: Three Months Ended September 30, 2025, not nine months. Supports E4:E22.",
+      "cached": "Use: Three Months Ended September 30, 2025, not nine months. Supports E4:E22."
+    },
+    "B51": {
+      "formula": "=HYPERLINK(\"https://www.sec.gov/Archives/edgar/data/1679788/000167978826000015/coin-20251231.htm\",\"FY 2025 Form 10-K (click to open)\")",
+      "cached": "FY 2025 Form 10-K (click to open)"
+    },
+    "B52": {
+      "formula": "Location: Note 4, Revenue; revenue-by-type table; Year Ended December 31, 2025.",
+      "cached": "Location: Note 4, Revenue; revenue-by-type table; Year Ended December 31, 2025."
+    },
+    "B53": {
+      "formula": "Use: F4:F22. Q4 detail = full-year 2025 amount less corresponding Q1-Q3 amounts.",
+      "cached": "Use: F4:F22. Q4 detail = full-year 2025 amount less corresponding Q1-Q3 amounts."
+    },
+    "B54": {
+      "formula": "This is a derived quarter using the original presentation, not a revised Q4 table.",
+      "cached": "This is a derived quarter using the original presentation, not a revised Q4 table."
+    },
+    "B56": {
+      "formula": "=HYPERLINK(\"https://www.sec.gov/Archives/edgar/data/1679788/000167978826000054/coin-20260331.htm\",\"Q1 2026 Form 10-Q (click to open)\")",
+      "cached": "Q1 2026 Form 10-Q (click to open)"
+    },
+    "B57": {
+      "formula": "Location: Note 4, Revenue, printed page 13; revenue-by-type table, in thousands.",
+      "cached": "Location: Note 4, Revenue, printed page 13; revenue-by-type table, in thousands."
+    },
+    "B58": {
+      "formula": "Use: Three Months Ended March 31, 2026 column. Supports G4:G22.",
+      "cached": "Use: Three Months Ended March 31, 2026 column. Supports G4:G22."
+    },
+    "B59": {
+      "formula": "Footnote (1) explains corporate USDC income classification; 2025 comparison is recast.",
+      "cached": "Footnote (1) explains corporate USDC income classification; 2025 comparison is recast."
+    },
+    "B61": {
+      "formula": "=HYPERLINK(\"https://www.sec.gov/Archives/edgar/data/1679788/000167978826000088/coin-20260630.htm\",\"Q2 2026 Form 10-Q (click to open)\")",
+      "cached": "Q2 2026 Form 10-Q (click to open)"
+    },
+    "B62": {
+      "formula": "Location: Note 5, Revenue, printed page 13; revenue-by-type table, in thousands.",
+      "cached": "Location: Note 5, Revenue, printed page 13; revenue-by-type table, in thousands."
+    },
+    "B63": {
+      "formula": "Use: Three Months Ended June 30, 2026, not six months. Supports H4:H22.",
+      "cached": "Use: Three Months Ended June 30, 2026, not six months. Supports H4:H22."
+    },
+    "B64": {
+      "formula": "Footnote (1): corporate USDC income reclassification; see notes B30:B34 above.",
+      "cached": "Footnote (1): corporate USDC income reclassification; see notes B30:B34 above."
+    },
+    "B65": {
+      "formula": "2025 model figures remain as originally reported; the 2026 comparative columns differ.",
+      "cached": "2025 model figures remain as originally reported; the 2026 comparative columns differ."
+    },
+    "B67": {
+      "formula": "Navigation: open the link, then search the document for the numbered Revenue note.",
+      "cached": "Navigation: open the link, then search the document for the numbered Revenue note."
+    },
+    "B68": {
+      "formula": "Cell ranges above cover populated revenue rows; blank rows are separators.",
+      "cached": "Cell ranges above cover populated revenue rows; blank rows are separators."
+    }
+  },
+  "Drivers": {
+    "C2": {
+      "formula": "Q1'25",
+      "cached": "Q1'25"
+    },
+    "D2": {
+      "formula": "Q2'25",
+      "cached": "Q2'25"
+    },
+    "E2": {
+      "formula": "Q3'25",
+      "cached": "Q3'25"
+    },
+    "F2": {
+      "formula": "Q4'25",
+      "cached": "Q4'25"
+    },
+    "G2": {
+      "formula": "Q1'26",
+      "cached": "Q1'26"
+    },
+    "H2": {
+      "formula": "Q2'26",
+      "cached": "Q2'26"
+    },
+    "B3": {
+      "formula": "Volume ($B)",
+      "cached": "Volume ($B)"
+    },
+    "B4": {
+      "formula": "Consumer Crypto Spot Volume",
+      "cached": "Consumer Crypto Spot Volume"
+    },
+    "C4": {
+      "formula": 78,
+      "cached": 78
+    },
+    "D4": {
+      "formula": 41.5,
+      "cached": 41.5
+    },
+    "E4": {
+      "formula": 57.4,
+      "cached": 57.4
+    },
+    "F4": {
+      "formula": 53.7,
+      "cached": 53.7
+    },
+    "G4": {
+      "formula": 33.8,
+      "cached": 33.8
+    },
+    "H4": {
+      "formula": 25.8,
+      "cached": 25.8
+    },
+    "B5": {
+      "formula": "Institutional Crypto Spot Volume",
+      "cached": "Institutional Crypto Spot Volume"
+    },
+    "C5": {
+      "formula": 315,
+      "cached": 315
+    },
+    "D5": {
+      "formula": 184.1,
+      "cached": 184.1
+    },
+    "E5": {
+      "formula": 236.9,
+      "cached": 236.9
+    },
+    "F5": {
+      "formula": 207.8,
+      "cached": 207.8
+    },
+    "G5": {
+      "formula": 158.7,
+      "cached": 158.7
+    },
+    "H5": {
+      "formula": 120.6,
+      "cached": 120.6
+    },
+    "B6": {
+      "formula": "Total Crypto Spot Volume",
+      "cached": "Total Crypto Spot Volume"
+    },
+    "C6": {
+      "formula": "=SUM(C4:C5)",
+      "cached": 393
+    },
+    "D6": {
+      "formula": "=SUM(D4:D5)",
+      "cached": 225.6
+    },
+    "E6": {
+      "formula": "=SUM(E4:E5)",
+      "cached": 294.3
+    },
+    "F6": {
+      "formula": "=SUM(F4:F5)",
+      "cached": 261.5
+    },
+    "G6": {
+      "formula": "=SUM(G4:G5)",
+      "cached": 192.5
+    },
+    "H6": {
+      "formula": "=SUM(H4:H5)",
+      "cached": 146.4
+    },
+    "B8": {
+      "formula": "Take rates (in thousands, except %)",
+      "cached": "Take rates (in thousands, except %)"
+    },
+    "B9": {
+      "formula": "Consumer transaction revenue",
+      "cached": "Consumer transaction revenue"
+    },
+    "C9": {
+      "formula": "=Actuals!C4",
+      "cached": 1095506
+    },
+    "D9": {
+      "formula": "=Actuals!D4",
+      "cached": 649908
+    },
+    "E9": {
+      "formula": "=Actuals!E4",
+      "cached": 843544
+    },
+    "F9": {
+      "formula": "=Actuals!F4",
+      "cached": 733877
+    },
+    "G9": {
+      "formula": "=Actuals!G4",
+      "cached": 566899
+    },
+    "H9": {
+      "formula": "=Actuals!H4",
+      "cached": 451670
+    },
+    "B10": {
+      "formula": "Consumer implied take rate",
+      "cached": "Consumer implied take rate"
+    },
+    "C10": {
+      "formula": "=(C9/1000000)/C4",
+      "cached": 0.01404494871794872
+    },
+    "D10": {
+      "formula": "=(D9/1000000)/D4",
+      "cached": 0.01566043373493976
+    },
+    "E10": {
+      "formula": "=(E9/1000000)/E4",
+      "cached": 0.01469588850174216
+    },
+    "F10": {
+      "formula": "=(F9/1000000)/F4",
+      "cached": 0.013666238361266294
+    },
+    "G10": {
+      "formula": "=(G9/1000000)/G4",
+      "cached": 0.016772159763313612
+    },
+    "H10": {
+      "formula": "=(H9/1000000)/H4",
+      "cached": 0.01750658914728682
+    },
+    "B11": {
+      "formula": "Institutional transaction revenue",
+      "cached": "Institutional transaction revenue"
+    },
+    "C11": {
+      "formula": "=Actuals!C5",
+      "cached": 98888
+    },
+    "D11": {
+      "formula": "=Actuals!D5",
+      "cached": 60819
+    },
+    "E11": {
+      "formula": "=Actuals!E5",
+      "cached": 135009
+    },
+    "F11": {
+      "formula": "=Actuals!F5",
+      "cached": 184951
+    },
+    "G11": {
+      "formula": "=Actuals!G5",
+      "cached": 135726
+    },
+    "H11": {
+      "formula": "=Actuals!H5",
+      "cached": 100073
+    },
+    "B12": {
+      "formula": "Institutional implied take rate",
+      "cached": "Institutional implied take rate"
+    },
+    "C12": {
+      "formula": "=(C11/1000000)/C5",
+      "cached": 0.00031393015873015876
+    },
+    "D12": {
+      "formula": "=(D11/1000000)/D5",
+      "cached": 0.0003303585008147746
+    },
+    "E12": {
+      "formula": "=(E11/1000000)/E5",
+      "cached": 0.0005698986914309834
+    },
+    "F12": {
+      "formula": "=(F11/1000000)/F5",
+      "cached": 0.0008900433108758421
+    },
+    "G12": {
+      "formula": "=(G11/1000000)/G5",
+      "cached": 0.0008552362948960304
+    },
+    "H12": {
+      "formula": "=(H11/1000000)/H5",
+      "cached": 0.0008297927031509122
+    },
+    "B14": {
+      "formula": "Stablecoin",
+      "cached": "Stablecoin"
+    },
+    "B15": {
+      "formula": "Average USDC held in Coinbase products ($B)",
+      "cached": "Average USDC held in Coinbase products ($B)"
+    },
+    "C15": {
+      "formula": 12.3,
+      "cached": 12.3
+    },
+    "D15": {
+      "formula": 14,
+      "cached": 14
+    },
+    "E15": {
+      "formula": 15,
+      "cached": 15
+    },
+    "F15": {
+      "formula": 18,
+      "cached": 18
+    },
+    "G15": {
+      "formula": 19,
+      "cached": 19
+    },
+    "H15": {
+      "formula": 20,
+      "cached": 20
+    },
+    "B16": {
+      "formula": "Average USDC market cap ($B)",
+      "cached": "Average USDC market cap ($B)"
+    },
+    "C16": {
+      "formula": 54,
+      "cached": 54
+    },
+    "D16": {
+      "formula": 61,
+      "cached": 61
+    },
+    "E16": {
+      "formula": 68,
+      "cached": 68
+    },
+    "F16": {
+      "formula": 76,
+      "cached": 76
+    },
+    "G16": {
+      "formula": 75,
+      "cached": 75
+    },
+    "H16": {
+      "formula": 77,
+      "cached": 77
+    },
+    "B17": {
+      "formula": "Stablecoin revenue (in thousands)",
+      "cached": "Stablecoin revenue (in thousands)"
+    },
+    "C17": {
+      "formula": "=Actuals!C10",
+      "cached": 297535
+    },
+    "D17": {
+      "formula": "=Actuals!D10",
+      "cached": 332497
+    },
+    "E17": {
+      "formula": "=Actuals!E10",
+      "cached": 354661
+    },
+    "F17": {
+      "formula": "=Actuals!F10",
+      "cached": 364128
+    },
+    "G17": {
+      "formula": "=Actuals!G10",
+      "cached": 305435
+    },
+    "H17": {
+      "formula": "=Actuals!H10",
+      "cached": 292147
+    },
+    "B18": {
+      "formula": "Effective quarterly revenue rate",
+      "cached": "Effective quarterly revenue rate"
+    },
+    "C18": {
+      "formula": "=(C17/1000000)/C15",
+      "cached": 0.024189837398373982
+    },
+    "D18": {
+      "formula": "=(D17/1000000)/D15",
+      "cached": 0.023749785714285713
+    },
+    "E18": {
+      "formula": "=(E17/1000000)/E15",
+      "cached": 0.023644066666666668
+    },
+    "F18": {
+      "formula": "=(F17/1000000)/F15",
+      "cached": 0.020229333333333335
+    },
+    "G18": {
+      "formula": "=(G17/1000000)/G15",
+      "cached": 0.016075526315789474
+    },
+    "H18": {
+      "formula": "=(H17/1000000)/H15",
+      "cached": 0.01460735
+    },
+    "B20": {
+      "formula": "Hold lines & mix (in thousands, except %)",
+      "cached": "Hold lines & mix (in thousands, except %)"
+    },
+    "B21": {
+      "formula": "Other transaction revenue",
+      "cached": "Other transaction revenue"
+    },
+    "C21": {
+      "formula": "=Actuals!C6",
+      "cached": 67814
+    },
+    "D21": {
+      "formula": "=Actuals!D6",
+      "cached": 53543
+    },
+    "E21": {
+      "formula": "=Actuals!E6",
+      "cached": 67707
+    },
+    "F21": {
+      "formula": "=Actuals!F6",
+      "cached": 63824
+    },
+    "G21": {
+      "formula": "=Actuals!G6",
+      "cached": 53200
+    },
+    "H21": {
+      "formula": "=Actuals!H6",
+      "cached": 47413
+    },
+    "B22": {
+      "formula": "Blockchain rewards",
+      "cached": "Blockchain rewards"
+    },
+    "C22": {
+      "formula": "=Actuals!C11",
+      "cached": 196592
+    },
+    "D22": {
+      "formula": "=Actuals!D11",
+      "cached": 144535
+    },
+    "E22": {
+      "formula": "=Actuals!E11",
+      "cached": 184647
+    },
+    "F22": {
+      "formula": "=Actuals!F11",
+      "cached": 151631
+    },
+    "G22": {
+      "formula": "=Actuals!G11",
+      "cached": 100849
+    },
+    "H22": {
+      "formula": "=Actuals!H11",
+      "cached": 83342
+    },
+    "B23": {
+      "formula": "Interest and finance fees",
+      "cached": "Interest and finance fees"
+    },
+    "C23": {
+      "formula": "=Actuals!C12",
+      "cached": 63086
+    },
+    "D23": {
+      "formula": "=Actuals!D12",
+      "cached": 59316
+    },
+    "E23": {
+      "formula": "=Actuals!E12",
+      "cached": 64758
+    },
+    "F23": {
+      "formula": "=Actuals!F12",
+      "cached": 59887
+    },
+    "G23": {
+      "formula": "=Actuals!G12",
+      "cached": 67805
+    },
+    "H23": {
+      "formula": "=Actuals!H12",
+      "cached": 66128
+    },
+    "B24": {
+      "formula": "Other S&S (ex-stablecoin)",
+      "cached": "Other S&S (ex-stablecoin)"
+    },
+    "C24": {
+      "formula": "=Actuals!C13",
+      "cached": 140898
+    },
+    "D24": {
+      "formula": "=Actuals!D13",
+      "cached": 119478
+    },
+    "E24": {
+      "formula": "=Actuals!E13",
+      "cached": 142658
+    },
+    "F24": {
+      "formula": "=Actuals!F13",
+      "cached": 151741
+    },
+    "G24": {
+      "formula": "=Actuals!G13",
+      "cached": 109434
+    },
+    "H24": {
+      "formula": "=Actuals!H13",
+      "cached": 113528
+    },
+    "B25": {
+      "formula": "Total S&S revenue",
+      "cached": "Total S&S revenue"
+    },
+    "C25": {
+      "formula": "=Actuals!C14",
+      "cached": 698111
+    },
+    "D25": {
+      "formula": "=Actuals!D14",
+      "cached": 655826
+    },
+    "E25": {
+      "formula": "=Actuals!E14",
+      "cached": 746724
+    },
+    "F25": {
+      "formula": "=Actuals!F14",
+      "cached": 727387
+    },
+    "G25": {
+      "formula": "=Actuals!G14",
+      "cached": 583523
+    },
+    "H25": {
+      "formula": "=Actuals!H14",
+      "cached": 555145
+    },
+    "B26": {
+      "formula": "S&S % of net revenue",
+      "cached": "S&S % of net revenue"
+    },
+    "C26": {
+      "formula": "=Actuals!C14/Actuals!C16",
+      "cached": 0.356121121103249
+    },
+    "D26": {
+      "formula": "=Actuals!D14/Actuals!D16",
+      "cached": 0.4618180742710352
+    },
+    "E26": {
+      "formula": "=Actuals!E14/Actuals!E16",
+      "cached": 0.41646997407673464
+    },
+    "F26": {
+      "formula": "=Actuals!F14/Actuals!F16",
+      "cached": 0.4253628133627362
+    },
+    "G26": {
+      "formula": "=Actuals!G14/Actuals!G16",
+      "cached": 0.43567691145243803
+    },
+    "H26": {
+      "formula": "=Actuals!H14/Actuals!H16",
+      "cached": 0.480936081663275
+    },
+    "B28": {
+      "formula": "Notes:",
+      "cached": "Notes:"
+    },
+    "B29": {
+      "formula": "1. Spot volume is in $ billions; total spot volume = consumer + institutional.",
+      "cached": "1. Spot volume is in $ billions; total spot volume = consumer + institutional."
+    },
+    "B30": {
+      "formula": "2. Source: Q2 2026 earnings deck, p.39 (spot volume) and pp.13/40 (USDC).",
+      "cached": "2. Source: Q2 2026 earnings deck, p.39 (spot volume) and pp.13/40 (USDC)."
+    },
+    "B31": {
+      "formula": "3. Source: Q1 2025 shareholder letter, May 8, 2025 (Q1 volume and $12.3B USDC).",
+      "cached": "3. Source: Q1 2025 shareholder letter, May 8, 2025 (Q1 volume and $12.3B USDC)."
+    },
+    "B32": {
+      "formula": "4. Spot volume excludes derivatives and stablecoin trading volume.",
+      "cached": "4. Spot volume excludes derivatives and stablecoin trading volume."
+    },
+    "B33": {
+      "formula": "5. Revenue rows link to Actuals; historical ratios calculate from those linked values.",
+      "cached": "5. Revenue rows link to Actuals; historical ratios calculate from those linked values."
+    },
+    "B34": {
+      "formula": "6. Consumer effective take rate = consumer revenue / (consumer spot volume x 1,000,000).",
+      "cached": "6. Consumer effective take rate = consumer revenue / (consumer spot volume x 1,000,000)."
+    },
+    "B35": {
+      "formula": "7. Institutional effective take rate uses institutional revenue and institutional spot volume.",
+      "cached": "7. Institutional effective take rate uses institutional revenue and institutional spot volume."
+    },
+    "B36": {
+      "formula": "8. These are revenue-to-spot-volume ratios, not quoted trading fees.",
+      "cached": "8. These are revenue-to-spot-volume ratios, not quoted trading fees."
+    },
+    "B37": {
+      "formula": "9. Non-spot revenue and product mix can change either effective take rate.",
+      "cached": "9. Non-spot revenue and product mix can change either effective take rate."
+    },
+    "B38": {
+      "formula": "10. Take-rate levels display as percentages; forecast changes are entered in basis points.",
+      "cached": "10. Take-rate levels display as percentages; forecast changes are entered in basis points."
+    },
+    "B39": {
+      "formula": "11. One basis point = 0.0001; add the change divided by 10,000 to the prior rate.",
+      "cached": "11. One basis point = 0.0001; add the change divided by 10,000 to the prior rate."
+    },
+    "B40": {
+      "formula": "12. Average USDC in products: 12.3 / 14 / 15 / 18 / 19 / 20 ($B), Q1 2025 to Q2 2026.",
+      "cached": "12. Average USDC in products: 12.3 / 14 / 15 / 18 / 19 / 20 ($B), Q1 2025 to Q2 2026."
+    },
+    "B41": {
+      "formula": "13. Average total USDC market cap: 54 / 61 / 68 / 76 / 75 / 77 ($B), rounded.",
+      "cached": "13. Average total USDC market cap: 54 / 61 / 68 / 76 / 75 / 77 ($B), rounded."
+    },
+    "B42": {
+      "formula": "14. Total market cap includes Coinbase and off-platform USDC balances.",
+      "cached": "14. Total market cap includes Coinbase and off-platform USDC balances."
+    },
+    "B43": {
+      "formula": "15. Total USDC market cap is context only; it does not feed the simplified forecast.",
+      "cached": "15. Total USDC market cap is context only; it does not feed the simplified forecast."
+    },
+    "B44": {
+      "formula": "16. Effective quarterly revenue rate = stablecoin revenue / (average Coinbase USDC x 1,000,000).",
+      "cached": "16. Effective quarterly revenue rate = stablecoin revenue / (average Coinbase USDC x 1,000,000)."
+    },
+    "B45": {
+      "formula": "17. This effective ratio includes off-platform economics; it is not the reserve interest yield.",
+      "cached": "17. This effective ratio includes off-platform economics; it is not the reserve interest yield."
+    },
+    "B46": {
+      "formula": "18. 2025 effective rates use as-reported revenue; see Actuals for the classification difference.",
+      "cached": "18. 2025 effective rates use as-reported revenue; see Actuals for the classification difference."
+    },
+    "B47": {
+      "formula": "19. Forecast USDC balances and effective rates change using separate Inputs assumptions.",
+      "cached": "19. Forecast USDC balances and effective rates change using separate Inputs assumptions."
+    },
+    "B48": {
+      "formula": "Blockchain rewards revenue grows by the selected scenario assumption, reflecting the combined effects of crypto prices, staking balances, network reward rates, and Coinbase\u2019s retained share.",
+      "cached": "Blockchain rewards revenue grows by the selected scenario assumption, reflecting the combined effects of crypto prices, staking balances, network reward rates, and Coinbase\u2019s retained share."
+    },
+    "B49": {
+      "formula": "21. Institutional spot volume stays flat; institutional revenue uses its own growth input.",
+      "cached": "21. Institutional spot volume stays flat; institutional revenue uses its own growth input."
+    },
+    "B50": {
+      "formula": "22. S&S excludes other transaction revenue; S&S mix = total S&S / net revenue.",
+      "cached": "22. S&S excludes other transaction revenue; S&S mix = total S&S / net revenue."
+    },
+    "B51": {
+      "formula": "23. Assumptions remain placeholders; the Q3 earn-out roll-off adjustment is still pending.",
+      "cached": "23. Assumptions remain placeholders; the Q3 earn-out roll-off adjustment is still pending."
+    },
+    "B53": {
+      "formula": "SOURCE LINKS AND EXACT LOCATIONS",
+      "cached": "SOURCE LINKS AND EXACT LOCATIONS"
+    },
+    "B55": {
+      "formula": "=HYPERLINK(\"https://www.sec.gov/Archives/edgar/data/1679788/000167978825000088/q125shareholderletter.htm\",\"Q1 2025 Shareholder Letter (click to open)\")",
+      "cached": "Q1 2025 Shareholder Letter (click to open)"
+    },
+    "B56": {
+      "formula": "Location: Chapter 1 financial discussion; search \u201c12.3\u201d for average USDC in products.",
+      "cached": "Location: Chapter 1 financial discussion; search \u201c12.3\u201d for average USDC in products."
+    },
+    "B57": {
+      "formula": "Supports C15: $12.3B average balance. This is an operating metric, not a balance-sheet cash item.",
+      "cached": "Supports C15: $12.3B average balance. This is an operating metric, not a balance-sheet cash item."
+    },
+    "B58": {
+      "formula": "For C4:C5, find the Trading Volume table: Q1 2025 consumer $78B / institutional $315B.",
+      "cached": "For C4:C5, find the Trading Volume table: Q1 2025 consumer $78B / institutional $315B."
+    },
+    "B60": {
+      "formula": "=HYPERLINK(\"https://s27.q4cdn.com/397450999/files/doc_financials/2026/q2/Q2-26-Earnings-Deck.pdf#page=39\",\"Q2 2026 Earnings Deck \u2014 spot volume (click to open)\")",
+      "cached": "Q2 2026 Earnings Deck \u2014 spot volume (click to open)"
+    },
+    "B61": {
+      "formula": "Location: slide 39, Select Operating Metrics ($ in billions), spot trading volume rows.",
+      "cached": "Location: slide 39, Select Operating Metrics ($ in billions), spot trading volume rows."
+    },
+    "B62": {
+      "formula": "Supports D4:H5: consumer and institutional volume, Q2 2025 through Q2 2026.",
+      "cached": "Supports D4:H5: consumer and institutional volume, Q2 2025 through Q2 2026."
+    },
+    "B63": {
+      "formula": "Read quarter headers left to right; row 6 is the model sum of consumer and institutional.",
+      "cached": "Read quarter headers left to right; row 6 is the model sum of consumer and institutional."
+    },
+    "B65": {
+      "formula": "=HYPERLINK(\"https://s27.q4cdn.com/397450999/files/doc_financials/2026/q2/Q2-26-Earnings-Deck.pdf#page=40\",\"Q2 2026 Earnings Deck \u2014 USDC balances (click to open)\")",
+      "cached": "Q2 2026 Earnings Deck \u2014 USDC balances (click to open)"
+    },
+    "B66": {
+      "formula": "Location: slide 40, USDC Balances & Revenue; quarterly average balances in $ billions.",
+      "cached": "Location: slide 40, USDC Balances & Revenue; quarterly average balances in $ billions."
+    },
+    "B67": {
+      "formula": "Supports D15:H15: USDC held in Coinbase products = 14 / 15 / 18 / 19 / 20.",
+      "cached": "Supports D15:H15: USDC held in Coinbase products = 14 / 15 / 18 / 19 / 20."
+    },
+    "B68": {
+      "formula": "Supports D16:H16: total USDC market cap = 61 / 68 / 76 / 75 / 77.",
+      "cached": "Supports D16:H16: total USDC market cap = 61 / 68 / 76 / 75 / 77."
+    },
+    "B69": {
+      "formula": "Use total market capitalization, not the off-platform balance component.",
+      "cached": "Use total market capitalization, not the off-platform balance component."
+    },
+    "B71": {
+      "formula": "=HYPERLINK(\"https://s27.q4cdn.com/397450999/files/doc_financials/2026/q2/Q2-26-Earnings-Deck.pdf#page=13\",\"Q2 2026 Earnings Deck \u2014 historical USDC chart (click to open)\")",
+      "cached": "Q2 2026 Earnings Deck \u2014 historical USDC chart (click to open)"
+    },
+    "B72": {
+      "formula": "Location: slide 13, average Coinbase-product USDC and average USDC market-cap chart.",
+      "cached": "Location: slide 13, average Coinbase-product USDC and average USDC market-cap chart."
+    },
+    "B73": {
+      "formula": "Supports C16: rounded Q1 2025 total market cap of $54B.",
+      "cached": "Supports C16: rounded Q1 2025 total market cap of $54B."
+    },
+    "B74": {
+      "formula": "For C15 use the more precise $12.3B in the Q1 letter, not the rounded chart label.",
+      "cached": "For C15 use the more precise $12.3B in the Q1 letter, not the rounded chart label."
+    },
+    "B76": {
+      "formula": "Derived rows: revenue links to Actuals; take rates and effective USDC rates are model ratios.",
+      "cached": "Derived rows: revenue links to Actuals; take rates and effective USDC rates are model ratios."
+    },
+    "B77": {
+      "formula": "Source documents for revenue are linked in Actuals B38:B65. No published yield is assumed.",
+      "cached": "Source documents for revenue are linked in Actuals B38:B65. No published yield is assumed."
+    }
+  },
+  "Inputs": {
+    "B3": {
+      "formula": "Inputs",
+      "cached": "Inputs"
+    },
+    "B5": {
+      "formula": "QoQ changes: growth in %, rate changes in bps. Assumptions are placeholders.",
+      "cached": "QoQ changes: growth in %, rate changes in bps. Assumptions are placeholders."
+    },
+    "B7": {
+      "formula": "Driver Switch",
+      "cached": "Driver Switch"
+    },
+    "C7": {
+      "formula": 2,
+      "cached": 2
+    },
+    "D7": {
+      "formula": "=CHOOSE(C7,\"Best Case\",\"Base Case\",\"Worst Case\")",
+      "cached": "Base Case"
+    },
+    "H7": {
+      "formula": "Q3'26F",
+      "cached": "Q3'26F"
+    },
+    "I7": {
+      "formula": "Q4'26F",
+      "cached": "Q4'26F"
+    },
+    "B10": {
+      "formula": "KEY REVENUE DRIVER ASSUMPTIONS",
+      "cached": "KEY REVENUE DRIVER ASSUMPTIONS"
+    },
+    "B12": {
+      "formula": "Consumer Spot Volume Growth (%)",
+      "cached": "Consumer Spot Volume Growth (%)"
+    },
+    "H12": {
+      "formula": "=INDEX(H14:H16, $C$7)",
+      "cached": -0.12
+    },
+    "I12": {
+      "formula": "=INDEX(I14:I16, $C$7)",
+      "cached": 0.08
+    },
+    "B14": {
+      "formula": "Best Case",
+      "cached": "Best Case"
+    },
+    "H14": {
+      "formula": 0.02,
+      "cached": 0.02
+    },
+    "I14": {
+      "formula": 0.12,
+      "cached": 0.12
+    },
+    "B15": {
+      "formula": "Base Case",
+      "cached": "Base Case"
+    },
+    "H15": {
+      "formula": -0.12,
+      "cached": -0.12
+    },
+    "I15": {
+      "formula": 0.08,
+      "cached": 0.08
+    },
+    "B16": {
+      "formula": "Worst Case",
+      "cached": "Worst Case"
+    },
+    "H16": {
+      "formula": -0.2,
+      "cached": -0.2
+    },
+    "I16": {
+      "formula": -0.08,
+      "cached": -0.08
+    },
+    "B18": {
+      "formula": "Consumer Take Rate Change (bps)",
+      "cached": "Consumer Take Rate Change (bps)"
+    },
+    "H18": {
+      "formula": "=INDEX(H20:H22, $C$7)",
+      "cached": 0
+    },
+    "I18": {
+      "formula": "=INDEX(I20:I22, $C$7)",
+      "cached": -2
+    },
+    "B20": {
+      "formula": "Best Case",
+      "cached": "Best Case"
+    },
+    "H20": {
+      "formula": -5,
+      "cached": -5
+    },
+    "I20": {
+      "formula": -3,
+      "cached": -3
+    },
+    "B21": {
+      "formula": "Base Case",
+      "cached": "Base Case"
+    },
+    "H21": {
+      "formula": 0,
+      "cached": 0
+    },
+    "I21": {
+      "formula": -2,
+      "cached": -2
+    },
+    "B22": {
+      "formula": "Worst Case",
+      "cached": "Worst Case"
+    },
+    "H22": {
+      "formula": 2,
+      "cached": 2
+    },
+    "I22": {
+      "formula": 0,
+      "cached": 0
+    },
+    "B24": {
+      "formula": "Average Coinbase USDC Balance Growth (%)",
+      "cached": "Average Coinbase USDC Balance Growth (%)"
+    },
+    "H24": {
+      "formula": "=INDEX(H26:H28, $C$7)",
+      "cached": 0.06
+    },
+    "I24": {
+      "formula": "=INDEX(I26:I28, $C$7)",
+      "cached": 0.03
+    },
+    "B26": {
+      "formula": "Best Case",
+      "cached": "Best Case"
+    },
+    "H26": {
+      "formula": 0.1,
+      "cached": 0.1
+    },
+    "I26": {
+      "formula": 0.07,
+      "cached": 0.07
+    },
+    "B27": {
+      "formula": "Base Case",
+      "cached": "Base Case"
+    },
+    "H27": {
+      "formula": 0.06,
+      "cached": 0.06
+    },
+    "I27": {
+      "formula": 0.03,
+      "cached": 0.03
+    },
+    "B28": {
+      "formula": "Worst Case",
+      "cached": "Worst Case"
+    },
+    "H28": {
+      "formula": 0,
+      "cached": 0
+    },
+    "I28": {
+      "formula": -0.02,
+      "cached": -0.02
+    },
+    "B30": {
+      "formula": "Effective Stablecoin Rate Change (bps)",
+      "cached": "Effective Stablecoin Rate Change (bps)"
+    },
+    "H30": {
+      "formula": "=INDEX(H32:H34, $C$7)",
+      "cached": -5
+    },
+    "I30": {
+      "formula": "=INDEX(I32:I34, $C$7)",
+      "cached": 2
+    },
+    "B32": {
+      "formula": "Best Case",
+      "cached": "Best Case"
+    },
+    "H32": {
+      "formula": -2,
+      "cached": -2
+    },
+    "I32": {
+      "formula": 5,
+      "cached": 5
+    },
+    "B33": {
+      "formula": "Base Case",
+      "cached": "Base Case"
+    },
+    "H33": {
+      "formula": -5,
+      "cached": -5
+    },
+    "I33": {
+      "formula": 2,
+      "cached": 2
+    },
+    "B34": {
+      "formula": "Worst Case",
+      "cached": "Worst Case"
+    },
+    "H34": {
+      "formula": -8,
+      "cached": -8
+    },
+    "I34": {
+      "formula": -3,
+      "cached": -3
+    },
+    "B37": {
+      "formula": "Blockchain Rewards revenue Growth (%)",
+      "cached": "Blockchain Rewards revenue Growth (%)"
+    },
+    "H37": {
+      "formula": "=INDEX(H39:H41, $C$7)",
+      "cached": 0.05
+    },
+    "I37": {
+      "formula": "=INDEX(I39:I41, $C$7)",
+      "cached": 0.08
+    },
+    "B39": {
+      "formula": "Best Case",
+      "cached": "Best Case"
+    },
+    "H39": {
+      "formula": 0.08,
+      "cached": 0.08
+    },
+    "I39": {
+      "formula": 0.12,
+      "cached": 0.12
+    },
+    "B40": {
+      "formula": "Base Case",
+      "cached": "Base Case"
+    },
+    "H40": {
+      "formula": 0.05,
+      "cached": 0.05
+    },
+    "I40": {
+      "formula": 0.08,
+      "cached": 0.08
+    },
+    "B41": {
+      "formula": "Worst Case",
+      "cached": "Worst Case"
+    },
+    "H41": {
+      "formula": -0.02,
+      "cached": -0.02
+    },
+    "I41": {
+      "formula": -0.05,
+      "cached": -0.05
+    },
+    "B44": {
+      "formula": "OTHER REVENUE ASSUMPTIONS",
+      "cached": "OTHER REVENUE ASSUMPTIONS"
+    },
+    "B46": {
+      "formula": "Institutional transaction revenue growth (%)",
+      "cached": "Institutional transaction revenue growth (%)"
+    },
+    "H46": {
+      "formula": -0.08,
+      "cached": -0.08
+    },
+    "I46": {
+      "formula": 0.05,
+      "cached": 0.05
+    },
+    "B48": {
+      "formula": "Other transaction revenue growth (%)",
+      "cached": "Other transaction revenue growth (%)"
+    },
+    "H48": {
+      "formula": 0,
+      "cached": 0
+    },
+    "I48": {
+      "formula": 0.05,
+      "cached": 0.05
+    },
+    "B50": {
+      "formula": "Interest and finance fees growth (%)",
+      "cached": "Interest and finance fees growth (%)"
+    },
+    "H50": {
+      "formula": 0,
+      "cached": 0
+    },
+    "I50": {
+      "formula": 0.02,
+      "cached": 0.02
+    },
+    "B52": {
+      "formula": "Other S&S revenue growth (%)",
+      "cached": "Other S&S revenue growth (%)"
+    },
+    "H52": {
+      "formula": -0.08,
+      "cached": -0.08
+    },
+    "I52": {
+      "formula": 0,
+      "cached": 0
+    },
+    "B54": {
+      "formula": "Corporate interest / other income growth (%)",
+      "cached": "Corporate interest / other income growth (%)"
+    },
+    "H54": {
+      "formula": -0.02,
+      "cached": -0.02
+    },
+    "I54": {
+      "formula": 0.02,
+      "cached": 0.02
+    },
+    "B56": {
+      "formula": "ASSUMPTION SOURCES AND GUIDANCE CONTEXT",
+      "cached": "ASSUMPTION SOURCES AND GUIDANCE CONTEXT"
+    },
+    "B58": {
+      "formula": "=HYPERLINK(\"https://s27.q4cdn.com/397450999/files/doc_financials/2026/q2/Q2-26-Earnings-Deck.pdf#page=31\",\"Q2 2026 Earnings Deck \u2014 Q3 outlook (click to open)\")",
+      "cached": "Q2 2026 Earnings Deck \u2014 Q3 outlook (click to open)"
+    },
+    "B59": {
+      "formula": "Location: slide 31, Outlook; Q3 subscription and services revenue discussion.",
+      "cached": "Location: slide 31, Outlook; Q3 subscription and services revenue discussion."
+    },
+    "B60": {
+      "formula": "Drivers cited: USDC balances, Q2 performance earn-out roll-off, and crypto asset prices.",
+      "cached": "Drivers cited: USDC balances, Q2 performance earn-out roll-off, and crypto asset prices."
+    },
+    "B61": {
+      "formula": "This provides context, not the specific best/base/worst values entered in this model.",
+      "cached": "This provides context, not the specific best/base/worst values entered in this model."
+    },
+    "B62": {
+      "formula": "H/I scenario and growth inputs are analyst assumptions; document your rationale when finalized.",
+      "cached": "H/I scenario and growth inputs are analyst assumptions; document your rationale when finalized."
+    },
+    "B63": {
+      "formula": "The Q3 earn-out roll-off is not yet modeled separately; assumptions remain provisional.",
+      "cached": "The Q3 earn-out roll-off is not yet modeled separately; assumptions remain provisional."
+    }
+  },
+  "Driver Forecast": {
+    "B2": {
+      "formula": "Selected scenario",
+      "cached": "Selected scenario"
+    },
+    "C2": {
+      "formula": "=CHOOSE(Inputs!$C$7,\"Best Case\",\"Base Case\",\"Worst Case\")",
+      "cached": "Base Case"
+    },
+    "B4": {
+      "formula": "Institutional spot volume stays flat; revenue growth is a separate input.",
+      "cached": "Institutional spot volume stays flat; revenue growth is a separate input."
+    },
+    "B5": {
+      "formula": "Blockchain rewards revenue grows by the selected scenario assumption, reflecting the combined effects of crypto prices, staking balances, network reward rates, and Coinbase\u2019s retained share.",
+      "cached": "Blockchain rewards revenue grows by the selected scenario assumption, reflecting the combined effects of crypto prices, staking balances, network reward rates, and Coinbase\u2019s retained share."
+    },
+    "C6": {
+      "formula": "Q1'26",
+      "cached": "Q1'26"
+    },
+    "D6": {
+      "formula": "Q2'26",
+      "cached": "Q2'26"
+    },
+    "E6": {
+      "formula": "Q3'26F",
+      "cached": "Q3'26F"
+    },
+    "F6": {
+      "formula": "Q4'26F",
+      "cached": "Q4'26F"
+    },
+    "B10": {
+      "formula": "Volume ($B)",
+      "cached": "Volume ($B)"
+    },
+    "B11": {
+      "formula": "Consumer Crypto Spot Volume",
+      "cached": "Consumer Crypto Spot Volume"
+    },
+    "C11": {
+      "formula": "=Drivers!G4",
+      "cached": 33.8
+    },
+    "D11": {
+      "formula": "=Drivers!H4",
+      "cached": 25.8
+    },
+    "E11": {
+      "formula": "=D11*(1+Inputs!H12)",
+      "cached": 22.704
+    },
+    "F11": {
+      "formula": "=E11*(1+Inputs!I12)",
+      "cached": 24.52032
+    },
+    "B12": {
+      "formula": "Institutional Crypto Spot Volume",
+      "cached": "Institutional Crypto Spot Volume"
+    },
+    "C12": {
+      "formula": "=Drivers!G5",
+      "cached": 158.7
+    },
+    "D12": {
+      "formula": "=Drivers!H5",
+      "cached": 120.6
+    },
+    "E12": {
+      "formula": "=D12",
+      "cached": 120.6
+    },
+    "F12": {
+      "formula": "=E12",
+      "cached": 120.6
+    },
+    "B13": {
+      "formula": "Total Crypto Spot Volume",
+      "cached": "Total Crypto Spot Volume"
+    },
+    "C13": {
+      "formula": "=SUM(C11:C12)",
+      "cached": 192.5
+    },
+    "D13": {
+      "formula": "=SUM(D11:D12)",
+      "cached": 146.4
+    },
+    "E13": {
+      "formula": "=SUM(E11:E12)",
+      "cached": 143.304
+    },
+    "F13": {
+      "formula": "=SUM(F11:F12)",
+      "cached": 145.12032
+    },
+    "B15": {
+      "formula": "Take rates (in thousands, except %)",
+      "cached": "Take rates (in thousands, except %)"
+    },
+    "B16": {
+      "formula": "Consumer transaction revenue",
+      "cached": "Consumer transaction revenue"
+    },
+    "C16": {
+      "formula": "=Drivers!G9",
+      "cached": 566899
+    },
+    "D16": {
+      "formula": "=Drivers!H9",
+      "cached": 451670
+    },
+    "E16": {
+      "formula": "=E11*E17*1000000",
+      "cached": 397469.6
+    },
+    "F16": {
+      "formula": "=F11*F17*1000000",
+      "cached": 424363.10400000005
+    },
+    "B17": {
+      "formula": "Consumer implied take rate",
+      "cached": "Consumer implied take rate"
+    },
+    "C17": {
+      "formula": "=(C16/1000000)/C11",
+      "cached": 0.016772159763313612
+    },
+    "D17": {
+      "formula": "=(D16/1000000)/D11",
+      "cached": 0.01750658914728682
+    },
+    "E17": {
+      "formula": "=D17+(Inputs!H18/10000)",
+      "cached": 0.01750658914728682
+    },
+    "F17": {
+      "formula": "=E17+(Inputs!I18/10000)",
+      "cached": 0.017306589147286822
+    },
+    "B18": {
+      "formula": "Institutional transaction revenue",
+      "cached": "Institutional transaction revenue"
+    },
+    "C18": {
+      "formula": "=Drivers!G11",
+      "cached": 135726
+    },
+    "D18": {
+      "formula": "=Drivers!H11",
+      "cached": 100073
+    },
+    "E18": {
+      "formula": "=D18*(1+Inputs!H46)",
+      "cached": 92067.16
+    },
+    "F18": {
+      "formula": "=E18*(1+Inputs!I46)",
+      "cached": 96670.51800000001
+    },
+    "B19": {
+      "formula": "Institutional implied take rate",
+      "cached": "Institutional implied take rate"
+    },
+    "C19": {
+      "formula": "=(C18/1000000)/C12",
+      "cached": 0.0008552362948960304
+    },
+    "D19": {
+      "formula": "=(D18/1000000)/D12",
+      "cached": 0.0008297927031509122
+    },
+    "E19": {
+      "formula": "=(E18/1000000)/E12",
+      "cached": 0.0007634092868988393
+    },
+    "F19": {
+      "formula": "=(F18/1000000)/F12",
+      "cached": 0.0008015797512437812
+    },
+    "B21": {
+      "formula": "Stablecoin",
+      "cached": "Stablecoin"
+    },
+    "B22": {
+      "formula": "Average USDC held in Coinbase products ($B)",
+      "cached": "Average USDC held in Coinbase products ($B)"
+    },
+    "C22": {
+      "formula": "=Drivers!G15",
+      "cached": 19
+    },
+    "D22": {
+      "formula": "=Drivers!H15",
+      "cached": 20
+    },
+    "E22": {
+      "formula": "=D22*(1+Inputs!H24)",
+      "cached": 21.200000000000003
+    },
+    "F22": {
+      "formula": "=E22*(1+Inputs!I24)",
+      "cached": 21.836000000000002
+    },
+    "B23": {
+      "formula": "Average USDC market cap ($B)",
+      "cached": "Average USDC market cap ($B)"
+    },
+    "C23": {
+      "formula": "=Drivers!G16",
+      "cached": 75
+    },
+    "D23": {
+      "formula": "=Drivers!H16",
+      "cached": 77
+    },
+    "B24": {
+      "formula": "Stablecoin revenue (in thousands)",
+      "cached": "Stablecoin revenue (in thousands)"
+    },
+    "C24": {
+      "formula": "=Drivers!G17",
+      "cached": 305435
+    },
+    "D24": {
+      "formula": "=Drivers!H17",
+      "cached": 292147
+    },
+    "E24": {
+      "formula": "=E22*(E25*1000000)",
+      "cached": 299075.82
+    },
+    "F24": {
+      "formula": "=F22*(F25*1000000)",
+      "cached": 312415.2946
+    },
+    "B25": {
+      "formula": "Effective quarterly revenue rate",
+      "cached": "Effective quarterly revenue rate"
+    },
+    "C25": {
+      "formula": "=(C24/1000000)/C22",
+      "cached": 0.016075526315789474
+    },
+    "D25": {
+      "formula": "=(D24/1000000)/D22",
+      "cached": 0.01460735
+    },
+    "E25": {
+      "formula": "=D25+(Inputs!H30/10000)",
+      "cached": 0.01410735
+    },
+    "F25": {
+      "formula": "=E25+(Inputs!I30/10000)",
+      "cached": 0.01430735
+    },
+    "B27": {
+      "formula": "Hold lines & mix (in thousands, except %)",
+      "cached": "Hold lines & mix (in thousands, except %)"
+    },
+    "B28": {
+      "formula": "Other transaction revenue",
+      "cached": "Other transaction revenue"
+    },
+    "C28": {
+      "formula": "=Drivers!G21",
+      "cached": 53200
+    },
+    "D28": {
+      "formula": "=Drivers!H21",
+      "cached": 47413
+    },
+    "E28": {
+      "formula": "=D28*(1+Inputs!H48)",
+      "cached": 47413
+    },
+    "F28": {
+      "formula": "=E28*(1+Inputs!I48)",
+      "cached": 49783.65
+    },
+    "B29": {
+      "formula": "Blockchain rewards",
+      "cached": "Blockchain rewards"
+    },
+    "C29": {
+      "formula": "=Drivers!G22",
+      "cached": 100849
+    },
+    "D29": {
+      "formula": "=Drivers!H22",
+      "cached": 83342
+    },
+    "E29": {
+      "formula": "=D29*(1+Inputs!H37)",
+      "cached": 87509.1
+    },
+    "F29": {
+      "formula": "=E29*(1+Inputs!I37)",
+      "cached": 94509.82800000001
+    },
+    "B30": {
+      "formula": "Interest and finance fees",
+      "cached": "Interest and finance fees"
+    },
+    "C30": {
+      "formula": "=Drivers!G23",
+      "cached": 67805
+    },
+    "D30": {
+      "formula": "=Drivers!H23",
+      "cached": 66128
+    },
+    "E30": {
+      "formula": "=D30*(1+Inputs!H50)",
+      "cached": 66128
+    },
+    "F30": {
+      "formula": "=E30*(1+Inputs!I50)",
+      "cached": 67450.56
+    },
+    "B31": {
+      "formula": "Other S&S ",
+      "cached": "Other S&S "
+    },
+    "C31": {
+      "formula": "=Drivers!G24",
+      "cached": 109434
+    },
+    "D31": {
+      "formula": "=Drivers!H24",
+      "cached": 113528
+    },
+    "E31": {
+      "formula": "=D31*(1+Inputs!H52)",
+      "cached": 104445.76000000001
+    },
+    "F31": {
+      "formula": "=E31*(1+Inputs!I52)",
+      "cached": 104445.76000000001
+    },
+    "B32": {
+      "formula": "Total S&S revenue (ex-stablecoin)",
+      "cached": "Total S&S revenue (ex-stablecoin)"
+    },
+    "C32": {
+      "formula": "=SUM(C29:C31)",
+      "cached": 278088
+    },
+    "D32": {
+      "formula": "=SUM(D29:D31)",
+      "cached": 262998
+    },
+    "E32": {
+      "formula": "=SUM(E29:E31)",
+      "cached": 258082.86000000002
+    },
+    "F32": {
+      "formula": "=SUM(F29:F31)",
+      "cached": 266406.14800000004
+    },
+    "B35": {
+      "formula": "SOURCE AND METHOD REFERENCES",
+      "cached": "SOURCE AND METHOD REFERENCES"
+    },
+    "B36": {
+      "formula": "Historical drivers: Drivers source links B55:B74. Revenue sources: Actuals B38:B65.",
+      "cached": "Historical drivers: Drivers source links B55:B74. Revenue sources: Actuals B38:B65."
+    },
+    "B37": {
+      "formula": "Forecast changes: Inputs assumptions; guidance context and limitations at Inputs B58:B63.",
+      "cached": "Forecast changes: Inputs assumptions; guidance context and limitations at Inputs B58:B63."
+    }
+  },
+  "Revenue Forecast": {
+    "B2": {
+      "formula": "Selected scenario",
+      "cached": "Selected scenario"
+    },
+    "C2": {
+      "formula": "=CHOOSE(Inputs!$C$7,\"Best Case\",\"Base Case\",\"Worst Case\")",
+      "cached": "Base Case"
+    },
+    "C3": {
+      "formula": "Q1'26",
+      "cached": "Q1'26"
+    },
+    "D3": {
+      "formula": "Q2'26",
+      "cached": "Q2'26"
+    },
+    "E3": {
+      "formula": "Q3'26F",
+      "cached": "Q3'26F"
+    },
+    "F3": {
+      "formula": "Q4'26F",
+      "cached": "Q4'26F"
+    },
+    "B9": {
+      "formula": "TRANSACTION REVENUE",
+      "cached": "TRANSACTION REVENUE"
+    },
+    "B10": {
+      "formula": "Consumer, net",
+      "cached": "Consumer, net"
+    },
+    "C10": {
+      "formula": "=Actuals!G4",
+      "cached": 566899
+    },
+    "D10": {
+      "formula": "=Actuals!H4",
+      "cached": 451670
+    },
+    "E10": {
+      "formula": "='Driver Forecast'!E16",
+      "cached": 397469.6
+    },
+    "F10": {
+      "formula": "='Driver Forecast'!F16",
+      "cached": 424363.10400000005
+    },
+    "B11": {
+      "formula": "Institutional, net",
+      "cached": "Institutional, net"
+    },
+    "C11": {
+      "formula": "=Actuals!G5",
+      "cached": 135726
+    },
+    "D11": {
+      "formula": "=Actuals!H5",
+      "cached": 100073
+    },
+    "E11": {
+      "formula": "='Driver Forecast'!E18",
+      "cached": 92067.16
+    },
+    "F11": {
+      "formula": "='Driver Forecast'!F18",
+      "cached": 96670.51800000001
+    },
+    "B12": {
+      "formula": "Other transaction revenue",
+      "cached": "Other transaction revenue"
+    },
+    "C12": {
+      "formula": "=Actuals!G6",
+      "cached": 53200
+    },
+    "D12": {
+      "formula": "=Actuals!H6",
+      "cached": 47413
+    },
+    "E12": {
+      "formula": "='Driver Forecast'!E28",
+      "cached": 47413
+    },
+    "F12": {
+      "formula": "='Driver Forecast'!F28",
+      "cached": 49783.65
+    },
+    "B13": {
+      "formula": "Total transaction revenue",
+      "cached": "Total transaction revenue"
+    },
+    "C13": {
+      "formula": "=Actuals!G7",
+      "cached": 755825
+    },
+    "D13": {
+      "formula": "=Actuals!H7",
+      "cached": 599156
+    },
+    "E13": {
+      "formula": "=SUM(E10:E12)",
+      "cached": 536949.76
+    },
+    "F13": {
+      "formula": "=SUM(F10:F12)",
+      "cached": 570817.2720000001
+    },
+    "B15": {
+      "formula": "SUBSCRIPTIONS & SERVICES REVENUE",
+      "cached": "SUBSCRIPTIONS & SERVICES REVENUE"
+    },
+    "B16": {
+      "formula": "Stablecoin revenue",
+      "cached": "Stablecoin revenue"
+    },
+    "C16": {
+      "formula": "=Actuals!G10",
+      "cached": 305435
+    },
+    "D16": {
+      "formula": "=Actuals!H10",
+      "cached": 292147
+    },
+    "E16": {
+      "formula": "='Driver Forecast'!E24",
+      "cached": 299075.82
+    },
+    "F16": {
+      "formula": "='Driver Forecast'!F24",
+      "cached": 312415.2946
+    },
+    "B17": {
+      "formula": "Blockchain rewards",
+      "cached": "Blockchain rewards"
+    },
+    "C17": {
+      "formula": "=Actuals!G11",
+      "cached": 100849
+    },
+    "D17": {
+      "formula": "=Actuals!H11",
+      "cached": 83342
+    },
+    "E17": {
+      "formula": "='Driver Forecast'!E29",
+      "cached": 87509.1
+    },
+    "F17": {
+      "formula": "='Driver Forecast'!F29",
+      "cached": 94509.82800000001
+    },
+    "B18": {
+      "formula": "Interest and finance fee income",
+      "cached": "Interest and finance fee income"
+    },
+    "C18": {
+      "formula": "=Actuals!G12",
+      "cached": 67805
+    },
+    "D18": {
+      "formula": "=Actuals!H12",
+      "cached": 66128
+    },
+    "E18": {
+      "formula": "='Driver Forecast'!E30",
+      "cached": 66128
+    },
+    "F18": {
+      "formula": "='Driver Forecast'!F30",
+      "cached": 67450.56
+    },
+    "B19": {
+      "formula": "Other subscription and services revenue",
+      "cached": "Other subscription and services revenue"
+    },
+    "C19": {
+      "formula": "=Actuals!G13",
+      "cached": 109434
+    },
+    "D19": {
+      "formula": "=Actuals!H13",
+      "cached": 113528
+    },
+    "E19": {
+      "formula": "='Driver Forecast'!E31",
+      "cached": 104445.76000000001
+    },
+    "F19": {
+      "formula": "='Driver Forecast'!F31",
+      "cached": 104445.76000000001
+    },
+    "B20": {
+      "formula": "Total subscription and services revenue",
+      "cached": "Total subscription and services revenue"
+    },
+    "C20": {
+      "formula": "=Actuals!G14",
+      "cached": 583523
+    },
+    "D20": {
+      "formula": "=Actuals!H14",
+      "cached": 555145
+    },
+    "E20": {
+      "formula": "=SUM(E16:E19)",
+      "cached": 557158.68
+    },
+    "F20": {
+      "formula": "=SUM(F16:F19)",
+      "cached": 578821.4426
+    },
+    "B22": {
+      "formula": "Total net revenue",
+      "cached": "Total net revenue"
+    },
+    "C22": {
+      "formula": "=Actuals!G16",
+      "cached": 1339348
+    },
+    "D22": {
+      "formula": "=Actuals!H16",
+      "cached": 1154301
+    },
+    "E22": {
+      "formula": "=E20+E13",
+      "cached": 1094108.44
+    },
+    "F22": {
+      "formula": "=F20+F13",
+      "cached": 1149638.7146
+    },
+    "B24": {
+      "formula": "Other revenue",
+      "cached": "Other revenue"
+    },
+    "B25": {
+      "formula": "Corporate interest and other income",
+      "cached": "Corporate interest and other income"
+    },
+    "C25": {
+      "formula": "=Actuals!G19",
+      "cached": 73634
+    },
+    "D25": {
+      "formula": "=Actuals!H19",
+      "cached": 65767
+    },
+    "E25": {
+      "formula": "=D25*(1+Inputs!H54)",
+      "cached": 64451.659999999996
+    },
+    "F25": {
+      "formula": "=E25*(1+Inputs!I54)",
+      "cached": 65740.6932
+    },
+    "B26": {
+      "formula": "Total other revenue",
+      "cached": "Total other revenue"
+    },
+    "C26": {
+      "formula": "=Actuals!G20",
+      "cached": 73634
+    },
+    "D26": {
+      "formula": "=Actuals!H20",
+      "cached": 65767
+    },
+    "E26": {
+      "formula": "=E25",
+      "cached": 64451.659999999996
+    },
+    "F26": {
+      "formula": "=F25",
+      "cached": 65740.6932
+    },
+    "B28": {
+      "formula": "Total revenue",
+      "cached": "Total revenue"
+    },
+    "C28": {
+      "formula": "=Actuals!G22",
+      "cached": 1412982
+    },
+    "D28": {
+      "formula": "=Actuals!H22",
+      "cached": 1220068
+    },
+    "E28": {
+      "formula": "=E26+E22",
+      "cached": 1158560.0999999999
+    },
+    "F28": {
+      "formula": "=F26+F22",
+      "cached": 1215379.4078000002
+    },
+    "B31": {
+      "formula": "SOURCE AND METHOD REFERENCES",
+      "cached": "SOURCE AND METHOD REFERENCES"
+    },
+    "B32": {
+      "formula": "Historical revenue: Actuals source links B38:B65; amounts are in $ thousands.",
+      "cached": "Historical revenue: Actuals source links B38:B65; amounts are in $ thousands."
+    },
+    "B33": {
+      "formula": "Q3/Q4 estimates link to Driver Forecast; corporate income uses Inputs growth assumptions.",
+      "cached": "Q3/Q4 estimates link to Driver Forecast; corporate income uses Inputs growth assumptions."
+    }
+  },
+  "Notes & Sources": {
+    "B5": {
+      "formula": "Notes:",
+      "cached": "Notes:"
+    },
+    "B6": {
+      "formula": "1. Revenue is in $ thousands; volumes and USDC balances are on Drivers.",
+      "cached": "1. Revenue is in $ thousands; volumes and USDC balances are on Drivers."
+    },
+    "J6": {
+      "formula": "Notes:",
+      "cached": "Notes:"
+    },
+    "B7": {
+      "formula": "2. Classification source: Q2 2026 10-Q, Note 5, Revenue (July 30, 2026).",
+      "cached": "2. Classification source: Q2 2026 10-Q, Note 5, Revenue (July 30, 2026)."
+    },
+    "J7": {
+      "formula": "1. Spot volume is in $ billions; total spot volume = consumer + institutional.",
+      "cached": "1. Spot volume is in $ billions; total spot volume = consumer + institutional."
+    },
+    "B8": {
+      "formula": "3. Net revenue = transaction revenue + subscription and services (S&S).",
+      "cached": "3. Net revenue = transaction revenue + subscription and services (S&S)."
+    },
+    "J8": {
+      "formula": "2. Source: Q2 2026 earnings deck, p.39 (spot volume) and pp.13/40 (USDC).",
+      "cached": "2. Source: Q2 2026 earnings deck, p.39 (spot volume) and pp.13/40 (USDC)."
+    },
+    "B9": {
+      "formula": "4. Total revenue = net revenue + corporate interest and other income.",
+      "cached": "4. Total revenue = net revenue + corporate interest and other income."
+    },
+    "J9": {
+      "formula": "3. Source: Q1 2025 shareholder letter, May 8, 2025 (Q1 volume and $12.3B USDC).",
+      "cached": "3. Source: Q1 2025 shareholder letter, May 8, 2025 (Q1 volume and $12.3B USDC)."
+    },
+    "B10": {
+      "formula": "5. Q4 2025 detail = originally reported full year less Q1 through Q3.",
+      "cached": "5. Q4 2025 detail = originally reported full year less Q1 through Q3."
+    },
+    "J10": {
+      "formula": "4. Spot volume excludes derivatives and stablecoin trading volume.",
+      "cached": "4. Spot volume excludes derivatives and stablecoin trading volume."
+    },
+    "B11": {
+      "formula": "6. 2025 figures retain the original presentation, including corporate USDC in stablecoin.",
+      "cached": "6. 2025 figures retain the original presentation, including corporate USDC in stablecoin."
+    },
+    "J11": {
+      "formula": "5. Revenue rows link to Actuals; historical ratios calculate from those linked values.",
+      "cached": "5. Revenue rows link to Actuals; historical ratios calculate from those linked values."
+    },
+    "B12": {
+      "formula": "7. 2026 presents corporate USDC income in corporate interest and other income.",
+      "cached": "7. 2026 presents corporate USDC income in corporate interest and other income."
+    },
+    "J12": {
+      "formula": "6. Consumer effective take rate = consumer revenue / (consumer spot volume x 1,000,000).",
+      "cached": "6. Consumer effective take rate = consumer revenue / (consumer spot volume x 1,000,000)."
+    },
+    "B13": {
+      "formula": "8. Stablecoin, S&S, net and corporate revenue are not fully comparable across that change.",
+      "cached": "8. Stablecoin, S&S, net and corporate revenue are not fully comparable across that change."
+    },
+    "J13": {
+      "formula": "7. Institutional effective take rate uses institutional revenue and institutional spot volume.",
+      "cached": "7. Institutional effective take rate uses institutional revenue and institutional spot volume."
+    },
+    "B14": {
+      "formula": "9. The reclassification changes revenue categories, not total revenue.",
+      "cached": "9. The reclassification changes revenue categories, not total revenue."
+    },
+    "J14": {
+      "formula": "8. These are revenue-to-spot-volume ratios, not quoted trading fees.",
+      "cached": "8. These are revenue-to-spot-volume ratios, not quoted trading fees."
+    },
+    "B15": {
+      "formula": "10. Recast Q2 2025 ($000s): stablecoin 308,914; corporate interest/other 100,695.",
+      "cached": "10. Recast Q2 2025 ($000s): stablecoin 308,914; corporate interest/other 100,695."
+    },
+    "J15": {
+      "formula": "9. Non-spot revenue and product mix can change either effective take rate.",
+      "cached": "9. Non-spot revenue and product mix can change either effective take rate."
+    },
+    "J16": {
+      "formula": "10. Take-rate levels display as percentages; forecast changes are entered in basis points.",
+      "cached": "10. Take-rate levels display as percentages; forecast changes are entered in basis points."
+    },
+    "B17": {
+      "formula": "SOURCE LINKS AND EXACT LOCATIONS",
+      "cached": "SOURCE LINKS AND EXACT LOCATIONS"
+    },
+    "J17": {
+      "formula": "11. One basis point = 0.0001; add the change divided by 10,000 to the prior rate.",
+      "cached": "11. One basis point = 0.0001; add the change divided by 10,000 to the prior rate."
+    },
+    "J18": {
+      "formula": "12. Average USDC in products: 12.3 / 14 / 15 / 18 / 19 / 20 ($B), Q1 2025 to Q2 2026.",
+      "cached": "12. Average USDC in products: 12.3 / 14 / 15 / 18 / 19 / 20 ($B), Q1 2025 to Q2 2026."
+    },
+    "B19": {
+      "formula": "=HYPERLINK(\"https://www.sec.gov/Archives/edgar/data/1679788/000167978825000089/coin-20250331.htm\",\"Q1 2025 Form 10-Q (click to open)\")",
+      "cached": "Q1 2025 Form 10-Q (click to open)"
+    },
+    "J19": {
+      "formula": "13. Average total USDC market cap: 54 / 61 / 68 / 76 / 75 / 77 ($B), rounded.",
+      "cached": "13. Average total USDC market cap: 54 / 61 / 68 / 76 / 75 / 77 ($B), rounded."
+    },
+    "B20": {
+      "formula": "Location: Note 3, Revenue; table presenting revenue by type, in thousands.",
+      "cached": "Location: Note 3, Revenue; table presenting revenue by type, in thousands."
+    },
+    "J20": {
+      "formula": "14. Total market cap includes Coinbase and off-platform USDC balances.",
+      "cached": "14. Total market cap includes Coinbase and off-platform USDC balances."
+    },
+    "B21": {
+      "formula": "Use: Three Months Ended March 31, 2025 column. Supports Actuals C4:C22.",
+      "cached": "Use: Three Months Ended March 31, 2025 column. Supports Actuals C4:C22."
+    },
+    "J21": {
+      "formula": "15. Total USDC market cap is context only; it does not feed the simplified forecast.",
+      "cached": "15. Total USDC market cap is context only; it does not feed the simplified forecast."
+    },
+    "B22": {
+      "formula": "Detail rows are reported amounts; subtotal rows reconcile to the same table.",
+      "cached": "Detail rows are reported amounts; subtotal rows reconcile to the same table."
+    },
+    "J22": {
+      "formula": "16. Effective quarterly revenue rate = stablecoin revenue / (average Coinbase USDC x 1,000,000).",
+      "cached": "16. Effective quarterly revenue rate = stablecoin revenue / (average Coinbase USDC x 1,000,000)."
+    },
+    "J23": {
+      "formula": "17. This effective ratio includes off-platform economics; it is not the reserve interest yield.",
+      "cached": "17. This effective ratio includes off-platform economics; it is not the reserve interest yield."
+    },
+    "B24": {
+      "formula": "=HYPERLINK(\"https://www.sec.gov/Archives/edgar/data/1679788/000167978825000154/coin-20250630.htm\",\"Q2 2025 Form 10-Q (click to open)\")",
+      "cached": "Q2 2025 Form 10-Q (click to open)"
+    },
+    "J24": {
+      "formula": "18. 2025 effective rates use as-reported revenue; see Actuals for the classification difference.",
+      "cached": "18. 2025 effective rates use as-reported revenue; see Actuals for the classification difference."
+    },
+    "B25": {
+      "formula": "Location: Note 3, Revenue; revenue-by-type table, in thousands.",
+      "cached": "Location: Note 3, Revenue; revenue-by-type table, in thousands."
+    },
+    "J25": {
+      "formula": "19. Forecast USDC balances and effective rates change using separate Inputs assumptions.",
+      "cached": "19. Forecast USDC balances and effective rates change using separate Inputs assumptions."
+    },
+    "B26": {
+      "formula": "Use: Three Months Ended June 30, 2025, not six months. Supports D4:D22.",
+      "cached": "Use: Three Months Ended June 30, 2025, not six months. Supports D4:D22."
+    },
+    "J26": {
+      "formula": "20. Blockchain rewards revenue grows by the selected scenario assumption, reflecting the combined effects of crypto prices, staking balances, network reward rates, and Coinbase\u2019s retained share.",
+      "cached": "20. Blockchain rewards revenue grows by the selected scenario assumption, reflecting the combined effects of crypto prices, staking balances, network reward rates, and Coinbase\u2019s retained share."
+    },
+    "J27": {
+      "formula": "21. Institutional spot volume stays flat; institutional revenue uses its own growth input.",
+      "cached": "21. Institutional spot volume stays flat; institutional revenue uses its own growth input."
+    },
+    "B28": {
+      "formula": "=HYPERLINK(\"https://www.sec.gov/Archives/edgar/data/1679788/000167978825000208/coin-20250930.htm\",\"Q3 2025 Form 10-Q (click to open)\")",
+      "cached": "Q3 2025 Form 10-Q (click to open)"
+    },
+    "J28": {
+      "formula": "22. S&S excludes other transaction revenue; S&S mix = total S&S / net revenue.",
+      "cached": "22. S&S excludes other transaction revenue; S&S mix = total S&S / net revenue."
+    },
+    "B29": {
+      "formula": "Location: Note 4, Revenue; revenue-by-type table, in thousands.",
+      "cached": "Location: Note 4, Revenue; revenue-by-type table, in thousands."
+    },
+    "J29": {
+      "formula": "23. Assumptions remain placeholders; the Q3 earn-out roll-off adjustment is still pending.",
+      "cached": "23. Assumptions remain placeholders; the Q3 earn-out roll-off adjustment is still pending."
+    },
+    "B30": {
+      "formula": "Use: Three Months Ended September 30, 2025, not nine months. Supports E4:E22.",
+      "cached": "Use: Three Months Ended September 30, 2025, not nine months. Supports E4:E22."
+    },
+    "J31": {
+      "formula": "SOURCE LINKS AND EXACT LOCATIONS",
+      "cached": "SOURCE LINKS AND EXACT LOCATIONS"
+    },
+    "B32": {
+      "formula": "=HYPERLINK(\"https://www.sec.gov/Archives/edgar/data/1679788/000167978826000015/coin-20251231.htm\",\"FY 2025 Form 10-K (click to open)\")",
+      "cached": "FY 2025 Form 10-K (click to open)"
+    },
+    "B33": {
+      "formula": "Location: Note 4, Revenue; revenue-by-type table; Year Ended December 31, 2025.",
+      "cached": "Location: Note 4, Revenue; revenue-by-type table; Year Ended December 31, 2025."
+    },
+    "J33": {
+      "formula": "=HYPERLINK(\"https://www.sec.gov/Archives/edgar/data/1679788/000167978825000088/q125shareholderletter.htm\",\"Q1 2025 Shareholder Letter (click to open)\")",
+      "cached": "Q1 2025 Shareholder Letter (click to open)"
+    },
+    "B34": {
+      "formula": "Use: F4:F22. Q4 detail = full-year 2025 amount less corresponding Q1-Q3 amounts.",
+      "cached": "Use: F4:F22. Q4 detail = full-year 2025 amount less corresponding Q1-Q3 amounts."
+    },
+    "J34": {
+      "formula": "Location: Chapter 1 financial discussion; search \u201c12.3\u201d for average USDC in products.",
+      "cached": "Location: Chapter 1 financial discussion; search \u201c12.3\u201d for average USDC in products."
+    },
+    "B35": {
+      "formula": "This is a derived quarter using the original presentation, not a revised Q4 table.",
+      "cached": "This is a derived quarter using the original presentation, not a revised Q4 table."
+    },
+    "J35": {
+      "formula": "Supports C15: $12.3B average balance. This is an operating metric, not a balance-sheet cash item.",
+      "cached": "Supports C15: $12.3B average balance. This is an operating metric, not a balance-sheet cash item."
+    },
+    "J36": {
+      "formula": "For C4:C5, find the Trading Volume table: Q1 2025 consumer $78B / institutional $315B.",
+      "cached": "For C4:C5, find the Trading Volume table: Q1 2025 consumer $78B / institutional $315B."
+    },
+    "B37": {
+      "formula": "=HYPERLINK(\"https://www.sec.gov/Archives/edgar/data/1679788/000167978826000054/coin-20260331.htm\",\"Q1 2026 Form 10-Q (click to open)\")",
+      "cached": "Q1 2026 Form 10-Q (click to open)"
+    },
+    "B38": {
+      "formula": "Location: Note 4, Revenue, printed page 13; revenue-by-type table, in thousands.",
+      "cached": "Location: Note 4, Revenue, printed page 13; revenue-by-type table, in thousands."
+    },
+    "J38": {
+      "formula": "=HYPERLINK(\"https://s27.q4cdn.com/397450999/files/doc_financials/2026/q2/Q2-26-Earnings-Deck.pdf#page=39\",\"Q2 2026 Earnings Deck \u2014 spot volume (click to open)\")",
+      "cached": "Q2 2026 Earnings Deck \u2014 spot volume (click to open)"
+    },
+    "B39": {
+      "formula": "Use: Three Months Ended March 31, 2026 column. Supports G4:G22.",
+      "cached": "Use: Three Months Ended March 31, 2026 column. Supports G4:G22."
+    },
+    "J39": {
+      "formula": "Location: slide 39, Select Operating Metrics ($ in billions), spot trading volume rows.",
+      "cached": "Location: slide 39, Select Operating Metrics ($ in billions), spot trading volume rows."
+    },
+    "B40": {
+      "formula": "Footnote (1) explains corporate USDC income classification; 2025 comparison is recast.",
+      "cached": "Footnote (1) explains corporate USDC income classification; 2025 comparison is recast."
+    },
+    "J40": {
+      "formula": "Supports D4:H5: consumer and institutional volume, Q2 2025 through Q2 2026.",
+      "cached": "Supports D4:H5: consumer and institutional volume, Q2 2025 through Q2 2026."
+    },
+    "J41": {
+      "formula": "Read quarter headers left to right; row 6 is the model sum of consumer and institutional.",
+      "cached": "Read quarter headers left to right; row 6 is the model sum of consumer and institutional."
+    },
+    "B42": {
+      "formula": "=HYPERLINK(\"https://www.sec.gov/Archives/edgar/data/1679788/000167978826000088/coin-20260630.htm\",\"Q2 2026 Form 10-Q (click to open)\")",
+      "cached": "Q2 2026 Form 10-Q (click to open)"
+    },
+    "B43": {
+      "formula": "Location: Note 5, Revenue, printed page 13; revenue-by-type table, in thousands.",
+      "cached": "Location: Note 5, Revenue, printed page 13; revenue-by-type table, in thousands."
+    },
+    "J43": {
+      "formula": "=HYPERLINK(\"https://s27.q4cdn.com/397450999/files/doc_financials/2026/q2/Q2-26-Earnings-Deck.pdf#page=40\",\"Q2 2026 Earnings Deck \u2014 USDC balances (click to open)\")",
+      "cached": "Q2 2026 Earnings Deck \u2014 USDC balances (click to open)"
+    },
+    "B44": {
+      "formula": "Use: Three Months Ended June 30, 2026, not six months. Supports H4:H22.",
+      "cached": "Use: Three Months Ended June 30, 2026, not six months. Supports H4:H22."
+    },
+    "J44": {
+      "formula": "Location: slide 40, USDC Balances & Revenue; quarterly average balances in $ billions.",
+      "cached": "Location: slide 40, USDC Balances & Revenue; quarterly average balances in $ billions."
+    },
+    "B45": {
+      "formula": "Footnote (1): corporate USDC income reclassification; see notes B30:B34 above.",
+      "cached": "Footnote (1): corporate USDC income reclassification; see notes B30:B34 above."
+    },
+    "J45": {
+      "formula": "Supports D15:H15: USDC held in Coinbase products = 14 / 15 / 18 / 19 / 20.",
+      "cached": "Supports D15:H15: USDC held in Coinbase products = 14 / 15 / 18 / 19 / 20."
+    },
+    "B46": {
+      "formula": "2025 model figures remain as originally reported; the 2026 comparative columns differ.",
+      "cached": "2025 model figures remain as originally reported; the 2026 comparative columns differ."
+    },
+    "J46": {
+      "formula": "Supports D16:H16: total USDC market cap = 61 / 68 / 76 / 75 / 77.",
+      "cached": "Supports D16:H16: total USDC market cap = 61 / 68 / 76 / 75 / 77."
+    },
+    "J47": {
+      "formula": "Use total market capitalization, not the off-platform balance component.",
+      "cached": "Use total market capitalization, not the off-platform balance component."
+    },
+    "B48": {
+      "formula": "Navigation: open the link, then search the document for the numbered Revenue note.",
+      "cached": "Navigation: open the link, then search the document for the numbered Revenue note."
+    },
+    "B49": {
+      "formula": "Cell ranges above cover populated revenue rows; blank rows are separators.",
+      "cached": "Cell ranges above cover populated revenue rows; blank rows are separators."
+    },
+    "J49": {
+      "formula": "=HYPERLINK(\"https://s27.q4cdn.com/397450999/files/doc_financials/2026/q2/Q2-26-Earnings-Deck.pdf#page=13\",\"Q2 2026 Earnings Deck \u2014 historical USDC chart (click to open)\")",
+      "cached": "Q2 2026 Earnings Deck \u2014 historical USDC chart (click to open)"
+    },
+    "J50": {
+      "formula": "Location: slide 13, average Coinbase-product USDC and average USDC market-cap chart.",
+      "cached": "Location: slide 13, average Coinbase-product USDC and average USDC market-cap chart."
+    },
+    "J51": {
+      "formula": "Supports C16: rounded Q1 2025 total market cap of $54B.",
+      "cached": "Supports C16: rounded Q1 2025 total market cap of $54B."
+    },
+    "J52": {
+      "formula": "For C15 use the more precise $12.3B in the Q1 letter, not the rounded chart label.",
+      "cached": "For C15 use the more precise $12.3B in the Q1 letter, not the rounded chart label."
+    },
+    "J54": {
+      "formula": "Derived rows: revenue links to Actuals; take rates and effective USDC rates are model ratios.",
+      "cached": "Derived rows: revenue links to Actuals; take rates and effective USDC rates are model ratios."
+    },
+    "J55": {
+      "formula": "Source documents for revenue are linked in Actuals B38:B65. No published yield is assumed.",
+      "cached": "Source documents for revenue are linked in Actuals B38:B65. No published yield is assumed."
+    }
+  }
+}
