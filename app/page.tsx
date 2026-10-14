@@ -121,8 +121,7 @@ export default function Dashboard() {
   const validMix=result.net>0&&result.transaction>=0&&result.services>=0;
   return <div className="app-shell">
     <header className="topbar">
-      <div className="brand">coinbase</div>
-      <div className="heading"><h1>Coinbase Revenue Forecast</h1><p>Independent student project <span>·</span> Provisional forecast assumptions</p></div>
+      <div className="heading"><h1>Coinbase Revenue Forecast</h1><p>Lenny Achan <span>·</span> Independent student project <span>·</span> Provisional forecast assumptions</p><p className="muted">Coinbase is not involved in or affiliated with this project.</p></div>
       <div className="top-controls">
         <ThemeToggle/>
         <RadioGroup aria-label="Scenario" value={scenario} onValueChange={v=>{setScenario(v as Scenario);setDrafts({});}} className="scenario-switch">
@@ -217,6 +216,6 @@ export default function Dashboard() {
       <details><summary>Calculation verification & limitations <ChevronDown size={17}/></summary><div className="verification-copy"><p>Bear maps to Worst Case (3), Base to Base Case (2), and Bull to Best Case (1). Reset follows the active workbook’s scenario selector and restores all of its assumptions.</p><p>The final workbook’s scenario outputs were compared with recalculated workbook formulas for all three cases and both forecast quarters. Its saved Base Case results were also checked against available Excel cached values. A Base Case test changed Q3 consumer volume growth to 10% and checked the resulting Q3 and Q4 revenue. Verification uses a spreadsheet calculation engine, not the Microsoft Excel application.</p><p>Uploaded workbook data stays in this browser tab and is never sent to a server. Refreshing restores the built-in workbook. On-screen assumption experiments live in this page session. Reset restores every scenario and both quarters from the active workbook. New uploads are checked for the supported formula structure and internally consistent historical totals; this is not an independent audit of their source data. The model preserves the final workbook’s formulas and shared-input structure. Earlier price-only templates are not supported.</p></div></details>
     </section>}
     </main>
-    <footer><span>Independent student project · AI-assisted development</span><span>Not affiliated with Coinbase. Forecasts are provisional.</span></footer>
+    <footer><span>Independent student project · AI-assisted development</span><span>Coinbase is not involved in or affiliated with this project. Forecasts are provisional.</span></footer>
   </div>;
 }
